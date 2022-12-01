@@ -1,3 +1,13 @@
+This is a shopping card app. U can add product to the list, u can edit the product on the listed products and remove product. And they All saving to local storage. App is exchange rate dolar from tl.
+
+<h1>FOR DEMO</h1>
+<h2>https://shopping-card11.netlify.app/</h2>
+
+![1](https://user-images.githubusercontent.com/96912858/205028452-066db32f-77cb-44ab-ad63-c625e49f29e0.png)
+![2](https://user-images.githubusercontent.com/96912858/205028462-f1aa560a-f8db-427a-aea0-a97ea47751c8.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
