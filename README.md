@@ -1,4 +1,4 @@
-This is a shopping card app. U can add product to the basket, the number of products can be increased or decreased , u can delete the product form the product list or basket.
+This is a shopping card app. U can add product to the basket, the number of products can be increased or decreased , u can delete the product form the product list or basket.App is adding otomatically Tax and Shipping than show u the total price.
 
 <h1>FOR DEMO</h1>
 <h2>https://shopping-card11.netlify.app/</h2>
