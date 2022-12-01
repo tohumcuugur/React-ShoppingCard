@@ -1,4 +1,4 @@
-This is a shopping card app. U can add product to the list, u can edit the product on the listed products and remove product. And they All saving to local storage. App is exchange rate dolar from tl.
+This is a shopping card app. U can add product to the basket, the number of products can be increased or decreased , u can delete the product form the product list or basket.
 
 <h1>FOR DEMO</h1>
 <h2>https://shopping-card11.netlify.app/</h2>
